@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/17 20:07:56.000.849,=C:\Users\Leand\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/17 20:08:51.000.500,C:\Users\Leand\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Leand\OneDrive\Documentos\Embarcadero\Studio\Projects\UTesteEmpresa.dfm</Transaction>
+    <Transaction>2022/05/17 20:08:51.000.500,C:\Users\Leand\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Leand\OneDrive\Documentos\Embarcadero\Studio\Projects\UTesteEmpresa.pas</Transaction>
+    <Transaction>2022/05/17 21:05:50.000.430,=C:\Users\Leand\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/17 21:09:01.000.935,C:\Users\Leand\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Leand\OneDrive\Documentos\Embarcadero\Studio\Projects\dataModule\UDtmConexao.pas</Transaction>
+    <Transaction>2022/05/17 21:09:01.000.935,C:\Users\Leand\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Leand\OneDrive\Documentos\Embarcadero\Studio\Projects\dataModule\UDtmConexao.dfm</Transaction>
+    <Transaction>2022/05/17 22:17:13.000.134,C:\Users\Leand\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Leand\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
